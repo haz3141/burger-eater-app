@@ -9,8 +9,6 @@ The goal here is to create a fullstack application that allows a user to enter a
 
 ![Preview]()
 
-![Preview]()
-
 ## Getting Started
 
 Simply head over to the live deployment at:
